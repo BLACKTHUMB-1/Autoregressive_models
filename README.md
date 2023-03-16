@@ -18,6 +18,12 @@ Stationarity test
 Non-stationarity to stationarity
 Autocorrelation function 
 Partial autocorrelation function
+Naive method
+Simple average method
+Simple moving average method
+Simple exponential smoothing technique
+Holt’s exponential smoothing technique
+Holt-Winters’ exponential smoothing technique
 Auto Regressive model
 Moving average model
 Auto-Regressive Moving Average (ARMA)
